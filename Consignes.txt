@@ -1,0 +1,23 @@
+Classe :
+Carte d'identité
+- ID
+- Nom
+- Prénom
+- Adresse
+- CP
+- Ville
+
+Méthodes : 
+- get()
+- set()
+- créer()
+- modifier()
+- afficher()
+
+
+Faire un tableau statique de cartes
+Déclarer une variable static pour compter le nombre de cartes et permettre d'incrémenter l'id
+Si on veut simplifier : on peut ne supprimer qu'en fin de liste.
+
+
+String fait partie de std
